@@ -1,0 +1,13 @@
+def grill_pancakes(batter,numberofpancake):
+    # I'll write this code later
+    return grilled_pancakes
+
+
+def make_batter(numberofpancake):
+    #I'll write this code later
+    return make_batter
+
+def deliver_plates(plate):
+    #I'll write this code later
+    print("Enjoy your pancakes!")
+    return None
